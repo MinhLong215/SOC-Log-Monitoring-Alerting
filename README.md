@@ -1,1 +1,1 @@
-# soc-log-monitoring-wazuh-elk
+# 🛡️ SOC Analyst Project 1 – Splunk SIEM Threat Detection & Alerting
